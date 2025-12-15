@@ -1,29 +1,27 @@
 ## I fix broken crypto bots — fast & safely
 
 If your trading or Telegram bot stopped working,
-I diagnose and repair it without needing keys or logins.
+I diagnose and repair it without requiring keys or account access.
 
 ### What I fix
-• Crypto trading bots (Freqtrade, snipers, grids)
+• Crypto trading bots (Freqtrade, snipers, grid / DCA)
 • Telegram / Discord bots (freeze, delay, crashes)
-• API, latency, logic and stability issues
+• API errors, latency issues, logic & stability problems
 
 ### How I work
 • No private keys required
-• No account access
-• Log-based diagnosis
-• Same-day fixes
+• No exchange or admin access
+• Log-based diagnosis only
+• Same-day fixes when feasible
 
-⏱ Available: 18 HOURS A DAY NO OFF
+⏱ Availability: US market hours
 💬 Open an issue on any repo to start
-
 
 ## 📌 Pinned Projects
 You’ll find:
-- Sanitized bot repair samples  
-- Automation fix kits  
-- Professional delivery templates  
+- Sanitized bot repair case notes
+- Common failure patterns & fixes
+- Professional repair workflows
 
-These demonstrate how I approach real-world automation issues.
-
----
+These repositories demonstrate how real production automation
+issues are diagnosed and stabilized.
